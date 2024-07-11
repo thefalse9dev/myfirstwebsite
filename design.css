@@ -27,6 +27,7 @@
 #input-box {
     width: 250px;
     height: 25px;
+    border-radius: 10px;
 }
 
 #labels {
